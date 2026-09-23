@@ -1,8 +1,4 @@
 # SOC-Assistant-
-An AI-assisted SOC triage system that analyzes Wazuh alerts, generates incident assessments, and helps streamline security investigation.
-
-# ai-soc-assistant
-
 An AI-assisted SOC triage system built on top of Wazuh. It ingests security alerts, filters them by severity, runs them through an AI model for first-pass analysis, and turns the results into structured incident reports — cutting down the manual triage work analysts would otherwise have to do by hand.
 
 ## Repository Layout
