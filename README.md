@@ -98,7 +98,7 @@ Notification settings are optional and configured separately.
 
 ## Wazuh Integration
 
-The system reads alerts directly from Wazuh's alert log:
+The system will read alerts directly from Wazuh's alert log:
 
 ```
 /var/ossec/logs/alerts/alerts.json
