@@ -48,7 +48,7 @@ Report       Dashboard     Notification
 - Python 3.11+
 - Virtualization software (for the Wazuh lab)
 - A running Wazuh lab environment
-- An AI API provider (OpenAI, Anthropic, etc.)
+- An AI API provider
 
 ## Setup
 
